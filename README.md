@@ -2,7 +2,7 @@
 ### Paper and Details:
 https://doi.org/10.1364/AO.444910
 ### Architecture: 
-
+![image][pics/pic_1.png]
 ### Dataset and Pre-trained Models:
 
 ### Training Details:
