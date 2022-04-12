@@ -27,8 +27,7 @@ Real world Experiment:
 ![image](https://github.com/ZedFm/FDCN_FDRN/blob/d5955a1222ff2ebe4439e64a251379336400bd26/pics/pic_3_total.png)
 
 ### Cite
-if you find this work useful, please cite 
-
+if you find this work useful, please cite :
 @article{liu2022full,
   title={Full-waveform LiDAR echo decomposition based on dense and residual neural networks},
   author={Liu, Gangping and Ke, Jun},
@@ -39,3 +38,5 @@ if you find this work useful, please cite
   year={2022},
   publisher={Optical Society of America}
 }
+
+Thanks a lot!
