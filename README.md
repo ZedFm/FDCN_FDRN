@@ -5,7 +5,8 @@ https://doi.org/10.1364/AO.444910
 ![image](https://github.com/ZedFm/FDCN_FDRN/blob/d5955a1222ff2ebe4439e64a251379336400bd26/pics/pic_1.png)
 ### Dataset and Pre-trained Models:
 Google Drive: https://drive.google.com/file/d/1jI9kVC4dHZewRxjOZIttKfcPJo1Dgd53/view?usp=sharing 
-
+or
+Google Drive2:https://drive.google.com/file/d/1xV7iCuQxGroAsB3Cxdwi-IqgbHVC2aXI/view?usp=sharing
 
 ### Training Details:
 ![image](https://github.com/ZedFm/FDCN_FDRN/blob/d5955a1222ff2ebe4439e64a251379336400bd26/pics/pic_2_train.png)
